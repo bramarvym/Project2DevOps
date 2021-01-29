@@ -10,6 +10,8 @@ import javax.swing.JOptionPane;
  *
  * @author Bram
  */
+
+//Class of formCheckout
 public class formCheckout extends javax.swing.JFrame {
 
     /**
