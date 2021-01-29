@@ -13,7 +13,7 @@ package commuterreservation;
 //inheritance from the class kereta.java
 public class keretabiasa extends kereta{
     
-    int pajak = 1500;
+    int pajak = 2300;
     int biayaadmin = 500;
     private int totalharga1;
     
