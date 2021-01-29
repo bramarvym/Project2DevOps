@@ -132,8 +132,8 @@ public class formLogin extends javax.swing.JFrame {
         String user = username1.getText();
         String pass = password1.getText();
         
-        String user1 = "admin";
-        String pass1 = "admin";
+        String user1 = "admin1";
+        String pass1 = "admin1";
         
         if(user.equals(user1)&&pass.equals(pass1))
         {
