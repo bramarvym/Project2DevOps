@@ -5,8 +5,9 @@
  */
 package commuterreservation;
 
-
+//abstract class
 abstract class kereta {
     
+    //declare abstract variable
     abstract int harga();
 }
